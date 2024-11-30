@@ -1,4 +1,3 @@
-Here’s an updated `README.md` file tailored to the code and functionality of your AI chatbot built with Expo and React Native:
 
 ---
 
